@@ -1,15 +1,23 @@
-# 💻 Exercícios de C# e .NET 8
+# 💻 Exercícios de C# e .NET
 
-Repositório criado para armazenar os exercícios e práticas realizados durante meus estudos de **C# e .NET 8**.
+Repositório criado para armazenar os exercícios e práticas realizados durante meus estudos de **C# e .NET**.
 
-Os exercícios acompanham o curso **C# e .NET 8: Guia Completo do Básico ao Avançado**, servindo como prática para desenvolver minha lógica de programação e meus conhecimentos na linguagem.
+## 📖 Sobre os estudos
+
+Escolhi esta playlist para estudar C# e .NET, mesmo sendo baseada no **.NET 8**.
+
+https://www.youtube.com/watch?v=XNrG_l308AY&list=PLEI5qdfLBErZuMSareAo-TLTFYU9hGDsR&index=1&pp=iAQB
+
+Embora versões mais recentes, como o **.NET 10**, já estejam disponíveis, os fundamentos de C# abordados no curso continuam sendo a base para o desenvolvimento na linguagem.
+
+Durante os estudos, estou praticando conceitos como variáveis, operadores, estruturas condicionais, estruturas de repetição, arrays, listas, métodos e Programação Orientada a Objetos.
+
+A ideia é construir uma base sólida em C# e, posteriormente, avançar para recursos e funcionalidades das versões mais recentes do .NET.
 
 ## 📚 Conteúdos estudados
 
 ### 🔰 Fundamentos
-
 - Sintaxe básica
-- Execução de aplicações .NET
 - Variáveis
 - Constantes
 - Entrada e saída de dados
@@ -19,22 +27,19 @@ Os exercícios acompanham o curso **C# e .NET 8: Guia Completo do Básico ao Ava
 - Operadores lógicos
 
 ### 🔀 Estruturas de controle
-
-- `if` e `else`
-- `switch`
-- `while`
-- `do/while`
-- `for`
-- `foreach`
+- If / Else
+- Switch
+- While
+- Do / While
+- For
+- Foreach
 
 ### 📦 Estruturas de dados
-
 - Arrays
 - Listas (`List`)
 - Manipulação de arquivos
 
 ### 🧩 Programação Orientada a Objetos
-
 - Conceitos de POO
 - Classes
 - Instâncias
@@ -44,7 +49,7 @@ Os exercícios acompanham o curso **C# e .NET 8: Guia Completo do Básico ao Ava
 
 ## 📂 Organização
 
-Os exercícios estão organizados em pastas de acordo com as aulas do curso:
+Os exercícios estão organizados de acordo com as aulas estudadas:
 
 ```text
 📁 Aula01
